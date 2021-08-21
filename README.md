@@ -8,6 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Nihan Yatir" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
+<a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
