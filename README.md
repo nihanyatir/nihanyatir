@@ -4,7 +4,7 @@
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nihanyatir&theme=cobalt&show_icons=true&count_private=true&hide=stars,prs,issues,contribs" />  
 </a>
 
-<h1 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Nihan Yatir" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
