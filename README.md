@@ -1,9 +1,14 @@
 ### Hi there, I'm Nihan! 👋
 
 <a align= "center" href="https://github.com/nihanyatir">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nihanyatir&theme=cobalt&show_icons=true&count_private=true&hide=stars,prs,issues,contribs" />
-  
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nihanyatir&theme=cobalt&show_icons=true&count_private=true&hide=stars,prs,issues,contribs" />  
 </a>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_1384046?term=social%20media%20linkedin&page=1&position=3&page=1&position=3&related_id=1384046&origin=search" alt="Nihan Yatir" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+</p>
 
 <!--
 **nihanyatir/nihanyatir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
