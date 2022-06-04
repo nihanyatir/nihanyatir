@@ -10,10 +10,6 @@ I'm a physicist and aspiring to be a data scientist.
 <a href="https://nihancodes.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/1803804771639199099-512.png" alt="nihancodes" height="45" width="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
-
-  
-  
-  
 <!--
 **nihanyatir/nihanyatir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
