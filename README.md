@@ -10,7 +10,7 @@ I'm a physicist and aspiring to be a data scientist.
 <a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="Nihan Yatir" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://nihancodes.com/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/975/975645.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://nihancodes.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16745814401536556756-512.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
