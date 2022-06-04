@@ -5,7 +5,7 @@ I'm a physicist and aspiring to be a data scientist.
 <p align="center">
 <a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="Nihan Yatir" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="twitter_nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
   
 <a href="https://nihancodes.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/1803804771639199099-512.png" alt="nihancodes" height="45" width="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
 </p>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+-->
 </p>
 
 <!--
