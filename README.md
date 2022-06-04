@@ -7,7 +7,7 @@ I'm a physicist and aspiring to be a data scientist.
 </a>
 <a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="twitter_nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
   
-<a href="https://nihancodes.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/31762039316354194894522-512.png" alt="nihancodes" height="45" width="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://nihancodes.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/125681827316315917334153-512.png" alt="nihancodes" height="45" width="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
