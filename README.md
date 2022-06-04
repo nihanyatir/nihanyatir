@@ -7,7 +7,7 @@ I'm a physicist and aspiring to be a data scientist.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin-logo_61109" alt="Nihan Yatir" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nihanyatir/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="Nihan Yatir" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://twitter.com/nihancodes" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://nihancodes.com/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/975/975645.png" alt="nihancodes" height="45" width="45" /></a> &nbsp;&nbsp;&nbsp;
